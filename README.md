@@ -30,4 +30,4 @@ $ ./manage.py shell
 ```
 
 ### View deploy version
-https://dcomchart.herokuapp.com/
+https://dcodchart.herokuapp.com/
